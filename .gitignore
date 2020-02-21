@@ -9,9 +9,7 @@ node_modules
 .settings
 selenium-client-jars/
 test/artifacts
-assets/server.key
-assets/server.key.enc
-sever.key
-server.key.enc
+/assets/server.key
+server.key
 
 
