@@ -11,5 +11,7 @@ selenium-client-jars/
 test/artifacts
 assets/server.key
 assets/server.key.enc
+sever.key
+server.key.enc
 
 
